@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-tar&color=0e75b6&style=flat" alt="ja-tar" /> </p>
 
-- 🔭 I’m currently working on: **-**
+- 🔭 I’m currently working on: **Generatory Rozkładów Jazdy**
 
 - 🌱 I’m currently learning: **-**
 
