@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ja Tar</h1>
 <h3 align="center">A young developer from Poland 🇵🇱</h3>
 
+<a href="https://www.buymeacoffee.com/jatar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-tar&color=0e75b6&style=flat" alt="ja-tar" /> </p>
 
 - 🔭 I’m currently working on: **Generatory Rozkładów Jazdy**
@@ -15,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ja-Tar&show_icons=true&locale=en"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ja-Tar&"/></p>
+
